@@ -6,8 +6,6 @@ This is a simple clone of Spotify created using only HTML and CSS. It replicates
 
 # Features
 
-Responsive UI: Works on both desktop and mobile screens.
-
 Navbar: Includes a sidebar similar to Spotify.
 
 Music Player UI: A static design for the music controls.
